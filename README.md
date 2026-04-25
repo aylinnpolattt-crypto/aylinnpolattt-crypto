@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Aylin 👋
 
-<!--
-**aylinnpolattt-crypto/aylinnpolattt-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a psychology student interested in data analysis and machine learning, especially working with behavioral data.
 
-Here are some ideas to get you started:
+## Projects
+- Emotion Analysis in Turkish Social Media Comments
+- Short-Term Energy Consumption Forecasting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python, Pandas, scikit-learn, data analysis
+
+## Currently
+Trying to improve my skills in data analysis and apply them to real-world problems

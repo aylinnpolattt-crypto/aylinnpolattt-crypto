@@ -3,8 +3,8 @@
 I'm a psychology student interested in data analysis and machine learning, especially working with behavioral data.
 
 ## Projects
-- Emotion Analysis in Turkish Social Media Comments
-- Short-Term Energy Consumption Forecasting
+- [Emotion Analysis in Turkish Social Media Comments](https://github.com/aylinnpolattt-crypto/turkish-social-media-emotion-analysis)
+- [Short-Term Energy Consumption Forecasting](https://github.com/aylinnpolattt-crypto/energy-consumption-forecasting)
 
 ## Skills
 Python, Pandas, scikit-learn, data analysis
